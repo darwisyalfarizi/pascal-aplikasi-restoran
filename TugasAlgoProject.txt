@@ -1,0 +1,60 @@
+fitur
+- menu(makanan + minuman)
+-milih meja
+-diskon
+-transaksi
+
+
+
+  writeln('========== Selamat Datang di Bakso Malang Cacak ==========');
+  writeln('----------------------------------------------------------');
+  writeln('1. Pesan Makanan');
+  writeln('2. Pesan Minuman');
+  writeln('3. Pilih Meja');
+  writeln('4. Input Diskon (jika ada) ');
+  writeln('5. Input Nama Pembeli');
+  writeln('6. Bayar');
+  writeln('7. Keluar');
+
+Masukkan Nama untuk memilih menu : 
+
+Pilih Makanan yang ingin anda pilih
+
+1. Bakso Campur 6 24
+1. Bakso Campur 5 20
+1. Bakso Campur 4 16
+1. Bakso Spesial 5 20
+
+Cwie Mie Ayam 15
+Cwie Mie Spesial 22
+
+Soto Ayam 15
+Soto Sapi 20
+Nasi Soto Ayam 18
+Nasi Soto Sapi 23
+
+Rawon 20
+Nasi + Rawon 23
+
+Mie Jawa Goreng 20
+Mie Jawa Godog 20
+
+Nasi Goreng Telur 14
+Nasi Goreng Ayam 17
+Nasi Goreng Sapi 20
+
+Nasi Putih 5
+
+minuman
+teh botol 5
+teh manis (panas/es) 5
+teh tawar (panas/es) 2
+Lemon tea (panas/es) 7
+Jeruk (panas/es) 8
+Kopi Hitam / White Coffe 5
+Es Kopi / White Coffe 6
+Air Putih hangat/es 1
+aqua botol 4
+
+
+
